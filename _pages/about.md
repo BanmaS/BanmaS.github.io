@@ -18,4 +18,6 @@ Concurrent Backscatter, Artificial Intelligence of Things(AIoT)
 
 Publications
 ======
-
+Enabling High-Rate Backscatter Sensing at Scale
+**Mingqi Xie**, Meng Jin, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou
+ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2024
