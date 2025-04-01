@@ -19,4 +19,4 @@ Wireless Sensing, Artificial Intelligence of Things(AIoT)
 Publications
 ======
 [[**MobiCom'24**](https://sigmobile.org/mobicom/2024/)] **“Enabling High-Rate Backscatter Sensing at Scale”** <br/>
-**Mingqi Xie**, Meng Jin, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, In ACM MobiCom, Washington, D.C., USA, Nov. 2024. <br/> [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649351) | [[Slides]](files/utag_slides.pdf)
+**Mingqi Xie**, Meng Jin, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, In ACM MobiCom, Washington, D.C., USA, Nov. 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649351) | [[Slides]](files/utag_slides.pdf)
