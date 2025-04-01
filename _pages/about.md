@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mingqi Xie (解明奇). I am a first year Ph.D. student from [School of EE](https://ee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of [Prof. Meng Jin](https://yume-sjtu.github.io/). Prior to this, I received my B.E. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022.
+My name is Mingqi Xie (解明奇). I am a second year Ph.D. student from [School of EE](https://ee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of [Prof. Meng Jin](https://yume-sjtu.github.io/). Prior to this, I received my B.E. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022.
 
 Feel free to contact me at [Xiemingqi_chel@sjtu.edu.cn].
 
