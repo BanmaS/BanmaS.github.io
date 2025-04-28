@@ -14,7 +14,7 @@ Feel free to contact me at [Xiemingqi_chel@sjtu.edu.cn].
 
 Research Interests
 ======
-Wireless Sensing, Artificial Intelligence of Things (AIoT)
+Wireless Sensing, Backscatter, AIoT
 
 Publications
 ======
