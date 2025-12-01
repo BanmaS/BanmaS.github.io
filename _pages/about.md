@@ -18,11 +18,14 @@ Wireless Sensing, Backscatter, AIoT
 
 Publications
 ======
-Notations:  **bold**->myself |  *->corresponding author(s)
+Notations:  **bold**->myself |  *->corresponding author(s) | <u>underline</u>->co-primary authors
+
+[<span style="color:red">**SenSys'26**</span>] <span style="color:blue">**Enabling Active Sensing with Zero-Power Components**</span> <br/>
+<u>**Mingqi Xie**</u>, <u>Qinyu Wang</u>, Meng Jin\*, Fengyuan Zhu, Jiaxin Ding, Xinbing Wang, Chenghu Zhou <br/> 
+*Proceedings of the 2026 ACM SenSys*. 2026.
 
 [<span style="color:red">**MobiCom'24**</span>] <span style="color:blue">**Enabling High-Rate Backscatter Sensing at Scale**</span> <br/>
 **Mingqi Xie**, Meng Jin\*, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou <br/> 
 [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649351) | [[Slides]](files/uTag_slides.pdf) <br/> 
 *Proceedings of the 2024 ACM MobiCom*. 2024.
-
 
