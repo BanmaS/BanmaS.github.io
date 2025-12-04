@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mingqi Xie (解明奇). I am a second year Ph.D. student in [IIOT Research Center](https://iiot.sjtu.edu.cn/#/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of [Prof. Meng Jin](https://yume-sjtu.github.io/). Prior to this, I received my B.E. degree from Shanghai Jiao Tong University in June 2022 and was recommended for the master degree from Sepetember 2022. Additionally, I transfer to be a PhD student (硕博连读) in April, 2024.
+My name is Mingqi Xie (解明奇). I am a second year Ph.D. student in [DIRC Research Center](https://dirc.sjtu.edu.cn/#/) at Shanghai Jiao Tong University under the supervision of [Prof. Meng Jin](https://yume-sjtu.github.io/). Prior to this, I received my B.E. degree from Shanghai Jiao Tong University in June 2022 and was recommended for the master degree from Sepetember 2022. Additionally, I transfer to be a PhD student (硕博连读) in April, 2024.
 
 Feel free to contact me at [Xiemingqi_chel@sjtu.edu.cn].
 
