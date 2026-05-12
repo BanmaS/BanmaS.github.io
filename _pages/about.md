@@ -22,10 +22,11 @@ Notations:  **bold**->myself &nbsp;&nbsp;|&nbsp;&nbsp; *->corresponding author(s
 
 **[**<span style="color:red">**SenSys'26**</span>**]** <span style="color:blue">**Enabling Active Sensing with Zero-Power Components**</span> <br/>
 **<u>Mingqi Xie</u>**, <u>Qinyu Wang</u>, Meng Jin\*, Fengyuan Zhu, Jiaxin Ding, Xinbing Wang, Chenghu Zhou <br/> 
+[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3774906.3800462) | [[Slides]](files/PActor_SenSys26_slides.pdf) <br/>
 *SenSys 2026: ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems.*
 
 **[**<span style="color:red">**MobiCom'24**</span>**]** <span style="color:blue">**Enabling High-Rate Backscatter Sensing at Scale**</span> <br/>
 **Mingqi Xie**, Meng Jin\*, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou <br/> 
-[[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649351) | [[Slides]](files/uTag_slides.pdf) <br/> 
+[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3636534.3649351) | [[Slides]](files/uTag_slides.pdf) <br/> 
 *MobiCom 2024: The 30th Annual International Conference on Mobile Computing and Networking.*
 
