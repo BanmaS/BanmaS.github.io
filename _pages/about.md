@@ -20,7 +20,7 @@ Selected Publications
 ======
 Notations:  **bold**->myself &nbsp;&nbsp;|&nbsp;&nbsp; *->corresponding author(s) &nbsp;&nbsp;|&nbsp;&nbsp; <u>underline</u>->co-primary authors
 
-**[**<span style="color:red">**ToN**</span>**]** <span style="color:blue">**Ultra-Low Power Backscatter for Large-Scale and High-Rate Sensing**</span> <br/>
+**[**<span style="color:red">**ToN**</span>**]** <span style="color:blue">**Ultra-Low-Power Backscatter for Large-Scale and High-Rate Sensing**</span> <br/>
 **Mingqi Xie**, Meng Jin\*, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou <br/> 
 *IEEE Transactions on Networking, 2026. (CCF-A)*
 
